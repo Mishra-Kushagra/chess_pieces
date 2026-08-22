@@ -109,6 +109,7 @@ The source Fusion 360 models are included in this repository:
 - [King](<chess- king.f3d>)
 - [Queen](<chess - queen.f3d>)
 - [Rook](rook.f3d)
+- [Muni / Bishop](<Chess- muni.f3d>)
 - [Pawn](chess- pawn.f3d)
 
 The final designs combine decorative detail with removable or attachable features. Images below are extracted from the original portfolio document.
@@ -117,3 +118,4 @@ The final designs combine decorative detail with removable or attachable feature
 |---|---|
 | Rook — lookout tower on top of a cylindrical body, with small windows patterned around the piece<br><br>![Rook Body](images/rook-body.png)<br><br>![Rook Lookout](images/rook-lookout.png) | Pawn — sun design on a removable shield. The shield was glued to a pin after printing; a small divot on its underside keeps the shield centered during assembly.<br><br>![Pawn Body](images/pawn-body.png)<br><br>![Pawn Shield](images/pawn-shield.png) |
 | King — disk crown with removable sword body<br><br>![King Body](images/king-body.png)<br><br>![King Sword](images/king-sword.png) | Queen — click-fit outer shell representing a decorated cape, plus an attachable crown<br><br>![Queen Body](images/queen-body.png)<br><br>![Queen Shell](images/queen-shell.png)<br><br>![Queen Crown](images/queen-crown.png) |
+| Muni / Bishop — cylindrical body with curved arm openings for a seamless fit<br><br>![Muni Body](images/Muni-body.png)<br><br>![Muni Complete](images/Muni-complete.png) |  |
